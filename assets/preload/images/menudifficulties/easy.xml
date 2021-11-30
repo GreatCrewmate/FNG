@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="easy.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="easy hover0000" x="0" y="0" width="242" height="111"/>
+	<SubTexture name="easy idle0000" x="0" y="116" width="196" height="65"/>
+</TextureAtlas>

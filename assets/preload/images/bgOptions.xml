@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgOptions.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bg0001" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="bg0002" x="0" y="725" width="1280" height="720"/>
+	<SubTexture name="bg0003" x="0" y="725" width="1280" height="720"/>
+</TextureAtlas>

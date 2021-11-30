@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="normal.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="normal hover0000" x="0" y="0" width="354" height="113" frameX="-15" frameY="0" frameWidth="354" frameHeight="113"/>
+	<SubTexture name="normal idle0000" x="0" y="118" width="308" height="67"/>
+</TextureAtlas>

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "gcrew idle"
+		},
+		{
+			"offsets": [
+				62,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "gcrew left"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "gcrew down"
+		},
+		{
+			"offsets": [
+				11,
+				52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "gcrew up"
+		},
+		{
+			"offsets": [
+				-48,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "gcrew right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GCrew",
+	"position": [
+		0,
+		310
+	],
+	"healthicon": "gcrew",
+	"flip_x": false,
+	"healthbar_colors": [
+		246,
+		247,
+		88
+	],
+	"camera_position": [
+		-90,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

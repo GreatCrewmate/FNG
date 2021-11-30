@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Mongus", "cyan", [56, 253, 223]]
+	],
+
+	"weekCharacters": [
+		"cyan",
+		"bf2",
+		""
+	],
+	"weekBackground": "kitchen",
+
+	"storyName": "Among Us Week",
+	"weekBefore": "week1",
+	"weekName": "Among Us Week",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

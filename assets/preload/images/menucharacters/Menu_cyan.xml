@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_cyan.png">
+	<!-- Created with Adobe Animate version 18.0.0.107 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="amongus_week0000" x="0" y="0" width="279" height="271" frameX="-8" frameY="0" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0001" x="0" y="0" width="279" height="271" frameX="-8" frameY="0" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0002" x="284" y="0" width="299" height="261" frameX="0" frameY="-10" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0003" x="284" y="0" width="299" height="261" frameX="0" frameY="-10" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0004" x="588" y="0" width="285" height="270" frameX="-5" frameY="-2" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0005" x="588" y="0" width="285" height="270" frameX="-5" frameY="-2" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0006" x="0" y="276" width="279" height="270" frameX="-8" frameY="-2" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0007" x="0" y="276" width="279" height="270" frameX="-8" frameY="-2" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0008" x="0" y="0" width="279" height="271" frameX="-8" frameY="-1" frameWidth="299" frameHeight="272"/>
+	<SubTexture name="amongus_week0009" x="0" y="0" width="279" height="271" frameX="-8" frameY="-1" frameWidth="299" frameHeight="272"/>
+</TextureAtlas>
